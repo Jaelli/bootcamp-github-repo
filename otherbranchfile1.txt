@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 same file but different text
+=======
+adding file to branch3
+>>>>>>> branch3
